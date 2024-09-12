@@ -5,16 +5,8 @@
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=50&pause=1500&width=750&height=100&lines=Machine+Learning+Enthusiast;Python+Developer;Java+Developer" alt="Typing SVG" /></a>
     </div>
-    <div align="center">
-    <a href="https://api.whatsapp.com/send?phone=917275011914"><img src="https://github.com/Ayushverma135/Ayushverma135/assets/120269805/a63dc3b2-47ca-497c-8302-d32abcad18ed" width="35" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://twitter.com/AakarshitSriva3"><img src="https://github.com/ArkS0001/ArkS0001/assets/113760964/7eeeffd6-2840-4a89-8c8f-8d11ac6a942d" width="35" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="mailto:shubh26002@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://www.youtube.com/@ArkSriva"><img src="https://github.com/user-attachments/assets/8c7f85d4-8449-4e44-8190-ccc5ca9c4a8d" width="37" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://t.me/ArkS0001"><img src="https://i.pinimg.com/originals/31/2a/f9/312af9235aadad69655688eaee97eabf.png" width="35" height="35" style="margin-right: 10px;" /></a>
-    <a href="https://medium.com/@arks0001"><img src="https://github.com/user-attachments/assets/050cd019-9c69-4730-8441-99658513e892" width="35" height="35" style="margin-right: 10px;" /></a>
-</div>
-<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+    <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="left">
         <br />
         <p>
