@@ -33,11 +33,11 @@ About Me = [
 
 ```
 <div align="center">
-     <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
+     <a href="https://www.linkedin.com/in/aseem-pradhan-104366264/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
     <h1>🧠Skills Set 🦾🤖</h1>
     <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
 </div>
-<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
