@@ -5,24 +5,7 @@
     <div align="center">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=6000&size=50&pause=1500&width=750&height=100&lines=Machine+Learning+Enthusiast;Python+Developer;Java+Developer" alt="Typing SVG" /></a>
     </div>
-    <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-    <a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<div align="left">
-        <br />
-        <p>
-            <strong>
-               With a strong foundation in machine learning, cloud architecture, and competitive coding, I’ve developed a diverse skill set that allows me to excel across multiple domains in the tech landscape. My deep expertise in programming languages such as Python, Java, C#, C++, Kotlin, and Dart gives me the flexibility to tackle a wide range of coding challenges. Additionally, I leverage powerful frameworks like Flutter, Django, Flask, NLTK, Dash, and Pandas to build scalable, efficient solutions that meet the needs of modern applications.
-
-In the realm of machine learning, I’m passionate about uncovering patterns in complex datasets and extracting meaningful insights, all while ensuring that the underlying architecture remains robust and scalable. As a cloud architect, I prioritize building secure, efficient infrastructures that can handle the demands of both present and future workloads. My competitive coding background helps me thrive in high-stakes environments, where tight deadlines require innovative and rapid problem-solving.
-
-Driven by curiosity and a passion for innovation, I’m always seeking new opportunities to apply my expertise—whether that’s in designing sophisticated AI models, crafting resilient cloud systems, or competing in coding competitions that challenge the limits of what’s possible.
-            </strong>
-        </p>
-        <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-        <br />
-    </div>
-<a href="https://medium.com/@arks0001"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+   
 ```py
 About Me = [
     "I'm a Machine Learning Engineer, Python Developer, and Generative AI Specialist, focused on building innovative AI-driven solutions.",
@@ -35,9 +18,7 @@ About Me = [
 <div align="center">
      <a href="https://www.linkedin.com/in/aseem-pradhan-104366264/"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
     <h1>🧠Skills Set 🦾🤖</h1>
-    <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
 </div>
-<a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <div align="center">
     <h3><b>Frontend Development</b></h3>
     <code><a href="#" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" title="HTML5" alt="html5" width="40" height="40"/></a></code>&nbsp;
