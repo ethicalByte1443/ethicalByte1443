@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED HEADER SVG -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Aseem%20Pradhan&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20AI%20%26%20Systems%20Architect%20%7C%20EPAM&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=220&amp;section=header&amp;text=Aseem%20Pradhan&amp;fontSize=42&amp;fontColor=e6edf3&amp;fontAlignY=35&amp;desc=%E2%9A%A1%20Full-Stack%20Engineer%20%7C%20AI%20%26%20Systems%20Architect%20%7C%20EPAM&amp;descSize=16&amp;descColor=8b949e&amp;descAlignY=55&amp;animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -38,26 +38,26 @@
 ```typescript
 const aseem: Developer = {
     pronouns: "he" | "him",
-    location: "Hyderabad, India 🇮🇳",
+    location: "Hyderabad / Kanpur, India 🇮🇳",
     company: "EPAM Systems",
-    role: "Full-Stack Engineer & AI Systems Architect",
+    role: "Junior Software Engineer",
     
-    education: "B.Tech in Computer Science",
+    education: "B.Tech in Computer Science (Dr. A.P.J. Abdul Kalam Technical University, 2022 - 2026)",
     
     currentFocus: [
-        "🧠 AI-Driven Microservices & Intelligent Agents",
-        "🔐 Enterprise Security Gateways & Auth Systems",
-        "📊 Real-Time Data Pipelines & System Monitoring",
-        "🌐 Scalable Full-Stack Web Applications"
+        "☕ Microservices & REST API Development (Java / Spring Boot / JPA)",
+        "📊 Real-Time Metric Streams & Pipeline Ingestion (Kafka / Redis)",
+        "🔐 Security Controls (JWT, Role-Based Access Controls)",
+        "⚡ Cloud DevOps & SRE (AWS, Docker, CI/CD, IaC)"
     ],
     
     philosophy: "\"CODIC\" — Solution of Every Problem",
     
     askMeAbout: [
-        "TypeScript/JavaScript Ecosystems",
-        "AI/ML Integration in Production Systems",
-        "Microservice Architecture & Design Patterns",
-        "System Design & Scalability"
+        "Spring Boot & Hibernate JPA API Optimization",
+        "CI/CD, Docker Containers & AWS Infrastructure",
+        "Prometheus & Grafana System Monitoring",
+        "Decoupled Service Communication Patterns"
     ]
 };
 ```
@@ -74,56 +74,53 @@ const aseem: Developer = {
 
 <!-- LANGUAGES -->
 <details open>
-<summary><b>⚡ Languages & Core</b></summary>
+<summary><b>⚡ Programming & Scripting</b></summary>
 <br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </details>
 
-<!-- FRAMEWORKS -->
+<!-- BACKEND -->
 <details open>
-<summary><b>🏗️ Frameworks & Libraries</b></summary>
+<summary><b>🏗️ Backend Development</b></summary>
 <br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=serverless&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 </details>
 
-<!-- AI/ML -->
+<!-- CLOUD & DEVOPS -->
 <details open>
-<summary><b>🧠 AI / ML & Data</b></summary>
+<summary><b>☁️ Cloud & DevOps</b></summary>
 <br/>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</details>
-
-<!-- INFRASTRUCTURE -->
-<details open>
-<summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
-<br/>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-463FD4?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+<!-- NETWORKING & OS -->
+<details open>
+<summary><b>🌐 Systems & Networking</b></summary>
+<br/>
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/TCP%2FIP-0052CC?style=for-the-badge&logo=wireshark&logoColor=white)
+![HTTP/HTTPS](https://img.shields.io/badge/HTTP%2FHTTPS-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 </details>
 
@@ -136,7 +133,18 @@ const aseem: Developer = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<!-- MONITORING & LOGGING -->
+<details open>
+<summary><b>📊 Monitoring & Logging</b></summary>
+<br/>
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![ELK](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+![SLF4J/Logback](https://img.shields.io/badge/Logging-SLF4J%20%2F%20Logback-blue?style=for-the-badge)
 
 </details>
 
@@ -293,12 +301,14 @@ const aseem: Developer = {
 
 | Badge | Achievement | Description |
 |:---:|:---:|:---|
+| 💎 | **Claude Certified Architect** | Proven architectural design competency |
+| ☁️ | **AWS Serverless** | Verified cloud engineering and serverless architectures competency |
 | 🦈 | **Pull Shark x2** | Merged 2+ pull requests — shipping code at scale |
 | 🌟 | **Starstruck** | Created a repository that earned community stars |
 | 👥 | **Pair Extraordinaire** | Co-authored commits with collaborators |
 | 🤠 | **YOLO** | Merged a PR without code review — living dangerously |
 | ⚡ | **Quickdraw** | Closed an issue/PR within 5 minutes of opening |
-| 💎 | **Pro Account** | GitHub Pro member with advanced features |
+| 🛡️ | **Pro Account** | GitHub Pro member with advanced features |
 
 </div>
 
@@ -339,7 +349,7 @@ const aseem: Developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ethicalByte1443/ethicalByte1443/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ethicalByte1443/ethicalByte1443/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ethicalByte1443/ethicalByte1443/output/github-snake-dark.svg" />
+  <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ethicalByte1443/ethicalByte1443/output/github-snake-dark.svg" />
 </picture>
 
 
@@ -397,7 +407,7 @@ const aseem: Developer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:161b22,100:6e40c9&amp;height=120&amp;section=footer" width="100%"/>
 
 <br/>
 
