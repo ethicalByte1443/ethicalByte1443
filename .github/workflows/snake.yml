@@ -1,0 +1,43 @@
+# 🐍 GitHub Contribution Snake Animation
+# Generates a snake game animation from your GitHub contribution graph
+# Output SVGs are committed to the `output` branch automatically
+
+name: Generate Snake Animation
+
+on:
+  # Runs at 00:00 UTC every day
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Allow manual trigger from Actions tab
+  workflow_dispatch:
+
+  # Run on push to main (for initial setup)
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
